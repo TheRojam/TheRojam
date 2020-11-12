@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on improving my skills as a DevOps-Engineer w/ @ansible (and @terraform) to migrate a whole hosting tenant/website infrastructure to Azure.
+- 🔭 I’m currently working on improving my skills as a DevOps-Engineer w/ [@ansible](https://github.com/ansible) (and [hashicorp/terraform](https://github.com/hashicorp/terraform)) to migrate a whole hosting tenant/website infrastructure to Azure.
 - 🌱 I’m currently learning playing drums 🥁 
-- 👯 I’m looking to collaborate on @hacker-coop 
+- 👯 I’m looking to collaborate on [@hacker-coop](https://github.com/hacker-coop)
 <!-- 🤔 I’m looking for help with--> 
 - 💬 Ask me about 🐧 Linux, OpenSource, 🛠 WorkersUnions
 <!-- 📫 How to reach me: ...-->
