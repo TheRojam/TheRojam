@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his  👨🏻‍💻
 - ⚡ Fun fact: I'm greenhaired gnome!
 
-Some of my software toolstack you'll find at [toolstack.md](https://github.com/TheRojam/TheRojam/toolstack.md)
+Some of my software toolstack you'll find at [toolstack.md](https://github.com/TheRojam/TheRojam/blob/main/toolstack.md)
 
 _Workers of the World need to unite!_
