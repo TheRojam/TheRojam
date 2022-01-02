@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on 
-  -  improving my skills as a DevOps-Engineer w/ [@ansible](https://github.com/ansible) (and [hashicorp/terraform](https://github.com/hashicorp/terraform)) to migrate a whole hosting tenant/website infrastructure to Azure.
-  -  migrate my personal website from wordpress to a flatfilesystem
+  -  improving my skills as a Linux Systems Engineer w/ [@ansible](https://github.com/ansible) (and [hashicorp/terraform](https://github.com/hashicorp/terraform)) to setup systems like jitsi on @hcloud.
+  -  migrate my personal website from wordpress to a flatfilesystem (/)
   -  build up infrastructure for an coop founding organization
 - 🌱 I’m currently learning playing drums 🥁 
 - 👯 I’m looking to collaborate on [@hacker-coop](https://github.com/hacker-coop)
