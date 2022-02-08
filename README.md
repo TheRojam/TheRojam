@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on 
-  -  improving my skills as a Linux Systems Engineer w/ [@ansible](https://github.com/ansible) (and [hashicorp/terraform](https://github.com/hashicorp/terraform)) to setup systems like jitsi on @hcloud (hetznercloud)
+  -  improving my skills as a Linux Systems Engineer w/ [@ansible](https://github.com/ansible) (and [hashicorp/terraform](https://github.com/hashicorp/terraform)) to setup systems like jitsi on @hetznercloud
   -  migrate my personal website from wordpress to a flatfilesystem (/)
   -  build up infrastructure for an coop founding organization
 - 🌱 I’m currently learning playing drums 🥁 
